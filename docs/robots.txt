@@ -19,4 +19,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://jamditis.github.io/eventbrite-automation/sitemap.xml
+Sitemap: https://centercoopmedia.github.io/eventbrite-automation/sitemap.xml
